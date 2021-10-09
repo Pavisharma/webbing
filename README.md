@@ -233,7 +233,7 @@ FOR THE FORM
 
 
                                 <label for="role" id="label-role">
-				What role you are surving as at your workplace
+				What role you are serving as at your workplace
 			</label>
 			
 			<!-- Input Type Text -->
