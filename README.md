@@ -56,7 +56,7 @@ FOR THE MAIN PAGE
 </head>
 <body>
     <h1>Workplace Harassment</h1>
-    <h2>What is workpace harassment?</h2>
+    <h2>What is workplace harassment?</h2>
     <img class="img1" src="https://lh3.googleusercontent.com/7XpHYPpUYOPY-zULWFf3go-p3gP4lUVLAcZksk9aK7VRRRWt1S2PBunLqoR4txkK5KWuOJpyMf3uny_TT3ooeV58MqqZ-FqnWgMMv_jiYnUReUfqNdN9kt7SglOr-oTIR7YPsJsErA=w2400" alt="Workplace Harassment" style="width:320px;height:190px;">
     <p>Workplace harassment occurs when an employee or group of employees feel thratened or get belittled by their colleagues. The sole purpose of a workplace harasser is to make their victims feel unsafe and uncomfortable.</p>
     <h2>Types of workplace harassment</h2>
