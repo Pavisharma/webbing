@@ -21,8 +21,7 @@ FOR THE MAIN PAGE
         h1 {
             text-align: center;
             color: yellow;
-            background-color:rgb(66, 66, 58) ;
-            border: yellow;
+            background-color:rgb(66, 66, 58);
             margin:30px;
             padding:8px;
             text-shadow: 0 0 6px rgb(248, 182, 0);
@@ -31,7 +30,7 @@ FOR THE MAIN PAGE
         h2 {
             color: yellow;
             text-shadow: 3px 3px 7px rgb(66, 66, 58);
-            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif         
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;        
         }
         .img2 {
               float:left;
@@ -69,10 +68,11 @@ FOR THE MAIN PAGE
     </ul>
     <img class="img2" src="https://lh3.googleusercontent.com/Z_DVX1Jy4tNr6zjRh1asOltLRl4vK_wPf_EM9sbPEjRnwcPIb6CJcDwUHOgEy2LrhArYj1Zc-gClc2NFl_zaBrEJDRi7TV1OarNxqHP0sV9yuXOQoAgcTPCpvtx14IZ2wEqnMAzOcw=w2400" alt="Statistics" style=" width:180px; height:200px;">
     <p><br>The “MeToo” movement has indeed given courage to many people to speak openly about offensive conduct at the workplace. Yet, many are still skeptical about opening their mouths and reporting harassing behaviors of colleagues or managers.</p>
-    <p>Workplace harassment is common but not spoken openly in most work environments. Harassment at work leads to a toxic and abusive workplace. Many individuals are not sure what is considered harassment at work; hence, most cases go unnoticed and unreported.</p>
+    <p>Workplace harassment is common but not spoken openly in most work environments. Harassment at work leads to a toxic and abusive workplace. Many individuals are not sure what is considered harassment at work; hence, most cases go unnoticed and unreported. 44% of women in the restaurant industry have experienced sexual harassment from someone in a management or ownership role. Roughly 58% of women harassed at work don’t file a complaint and 31% of all victims feel depressed and anxious upon experiencing sexual harassment or assault.</p>
     <br><br><br><br><br>
     <h2>Aim of our Website</h2>
     <p>We aim to build a platform where people can fill the form if they've experienced any sort of harassment at their workpace. We would use it to help the job seekers know if the workplace they are desiring to join is safe or not! You can fill the form by <a href="./form.html">clicking here.</a></p>
+    <p>Wanna know about the environment of a workplace? You may <a href="mailto: yg.yashikagoyal03@gmail.com">contact us!</a></p>
 
 </body>
 </html>
